@@ -16,7 +16,7 @@ threshold it takes for the top to have a clear path to the bottom (more lower), 
 mathematical theory. Only in computational theory. 
 
 In layman's terms, the assignment wants you to do this: open boxes at random in an x by x square. Once the top can find a clear path to the bottom, retrieve the amount of boxes opened. Run the simulation a gazillion times, and you will find that the computational threshold converges at 59.3%.
-That is, open 59.3% of total boxes, and the percolation probabilty shoots up to 100%. 
+That is, open 59.3% of total boxes, and the percolation probability shoots up to 100%. 
 
 # Significance
 
