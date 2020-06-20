@@ -13,7 +13,7 @@ What lies in this repository is the completed first assignment, percolation.java
 This repository holds two things, the actual implementation to create the simulation using int arrays and weighted quick union data structures
 (percolation.java), and the simulation (percolationstats.java) that uses the implementation to retrieve the computational
 threshold it takes for the top to have a clear path to the bottom (more lower), something not yet fetchable in current
-mathematical theory. 
+mathematical theory. Only in computational theory. 
 
 In layman's terms, the assignment wants you to do this: open boxes at random in an x by x square. Once the top can find a clear path to the bottom, retrieve the amount of boxes opened. Run the simulation a gazillion times, and you will find that the computational threshold converges at 59.3%.
 That is, open 59.3% of total boxes, and the percolation probabilty shoots up to 100%. 
