@@ -25,4 +25,4 @@ That is, open 59.3% of total boxes, and the percolation probability shoots up to
 Fill an aggregate with conductive material. Once you fill it past 59.3% of its capacity, chances are the aggregate is now a conductor.
 Predict the number of subunits it takes to invoke a biological virus's shell by removing its subunits one by one, and you will find
 that fragmentation begins after 59.3% of subunit removal. 
-The Percolation model is everywhere. 
+The Percolation model is [everywhere].(https://en.wikipedia.org/wiki/Percolation_theory)  
